@@ -1,6 +1,6 @@
 ### REGISTERR NUMBER: 212222230028
 ### NAME: DEEPIKA S
-# Surveying and Preserving the Digital Crime Scene
+# LAB-2 Surveying and Preserving the Digital Crime Scene
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
